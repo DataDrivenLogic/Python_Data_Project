@@ -170,4 +170,4 @@ Extend the analysis to other job titles (Data Scientist, Engineer).
 
 Build an interactive dashboard for skills & salaries.
 
-Expand to international markets for global insights.
+Expand to international markets for global insights
